@@ -1,5 +1,5 @@
 import React from "react";
-import { Avatar } from "../core-ui/avatar/Avatar"
+import { Avatar } from "@/core-ui/avatar/Avatar";
 import "./footer.css"
 
 export default function Footer () {
